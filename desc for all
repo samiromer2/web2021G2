@@ -1,0 +1,7 @@
+pha 
+
+item (name , used , desc , price , exp_date , suppilyform)
+stuff (name , gender , address , natid)
+accounts (amount , from , movement , accdate , accountroot)
+exp-> 200,profit , + , 1-1-2021 , sells
+supplier (name , qual, date , address , phone)
