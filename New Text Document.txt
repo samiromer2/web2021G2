@@ -1,0 +1,16 @@
+Rez system
++pait(name , address , age , phone)
++doc(name , address , phone , spic)
++booking(p-name , d-name , time ,date )
++account
+
+setup:
+->forms 
+->table
+->names inputs
+->database
+->$_POST
+->print_r
+->database connection
+->post
+->sql 
